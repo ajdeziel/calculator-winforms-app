@@ -1,0 +1,11 @@
+c:\users\ajdeziel\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+c:\users\ajdeziel\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+c:\users\ajdeziel\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+c:\users\ajdeziel\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csprojResolveAssemblyReference.cache
+c:\users\ajdeziel\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+c:\users\ajdeziel\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.Cache
+c:\users\ajdeziel\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+c:\users\ajdeziel\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
+c:\users\ajdeziel\documents\visual studio 2013\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+C:\Users\ajdeziel\Documents\Visual Studio 2013\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.CodeAnalysisLog.xml
+C:\Users\ajdeziel\Documents\Visual Studio 2013\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.lastcodeanalysissucceeded
